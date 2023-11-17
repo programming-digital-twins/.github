@@ -4,7 +4,7 @@ By Andy King
 
 The content in [Programming Digital Twins](https://github.com/programming-digital-twins/.github/edit/default/README.md) is focused on helping the reader to understand some of the core concepts associated with Building Digital Twins ecosystems. This material builds upon content from [Programming the IoT]() and my book, [Programming the Internet of Things (O’Reilly Media)](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/).
 
-This site has been written to support my upcoming Building Digital Twins course at Northeastern University and will remain under development for some time. My book,
+This site has been developed to support my upcoming Building Digital Twins course at Northeastern University and will remain under development for some time. My book,
 [Programming the IoT](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/), is designed to help developers and technology executives alike better understand the technical complexities of a typical IoT ecosystem.
 
 ## Book Links
