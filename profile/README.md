@@ -10,14 +10,14 @@ This site has been developed to support my upcoming Building Digital Twins cours
 ## Exercises Kanban Board
 - [Programming Digital Twins Kanban Board](https://github.com/orgs/programming-digital-twins/projects/1)
 
+## Sample Videos
+- Watch in 4K: [Programming Digital Twins - Basic Residential System Status Demo](https://youtu.be/xkve9ezn3Mk)
+
 ## Book Links
 - **O'Reilly:** https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/
 - **Amazon:** https://www.amazon.com/Programming-Internet-Things-Device-Cloud/dp/1492081418
 - **Website:** https://labbenchstudios.com/programming-the-iot-book/
 - **Errata:** https://www.oreilly.com/catalog/errata.csp?isbn=0636920387640
-
-## Sample Videos
-- Watch in 4K: [Programming Digital Twins - Basic Residential System Status Demo](https://youtu.be/xkve9ezn3Mk)
 
 <a href="https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/"><img src="https://labbenchstudios.files.wordpress.com/2021/06/programming-the-internet-of-things-final-cover.png" alt="Programming the IoT Cover" style="width:700px;"/></a>
 <!--<a href="https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/"><img src="https://learning.oreilly.com/library/cover/9781492081401/250w/" alt="Programming the IoT Cover" style="width:250px;"/></a>-->
