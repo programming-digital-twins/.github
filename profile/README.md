@@ -17,7 +17,7 @@ This site has been developed to support my upcoming Building Digital Twins cours
 - **Errata:** https://www.oreilly.com/catalog/errata.csp?isbn=0636920387640
 
 ## Sample Videos
-- [Programming Digital Twins - Basic Residential System Status Demo](https://youtu.be/xkve9ezn3Mk)
+- Watch in 4K: [Programming Digital Twins - Basic Residential System Status Demo](https://youtu.be/xkve9ezn3Mk)
 
 <a href="https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/"><img src="https://labbenchstudios.files.wordpress.com/2021/06/programming-the-internet-of-things-final-cover.png" alt="Programming the IoT Cover" style="width:700px;"/></a>
 <!--<a href="https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/"><img src="https://learning.oreilly.com/library/cover/9781492081401/250w/" alt="Programming the IoT Cover" style="width:250px;"/></a>-->
