@@ -7,6 +7,15 @@ The content in [Programming Digital Twins](https://github.com/programming-digita
 This site has been developed to support my upcoming Building Digital Twins course at Northeastern University and will remain under development for some time. My book,
 [Programming the IoT](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/), is designed to help developers and technology executives alike better understand the technical complexities of a typical IoT ecosystem.
 
+## IMPORTANT NOTE
+All repositories and artifacts are under active development and are subject to change significantly for the foreseeable future. This includes, but is not limited to, the following:
+- [pdt-cfw-components](https://github.com/programming-digital-twins/pdt-cfw-components)
+- [pdt-edge-components](https://github.com/programming-digital-twins/pdt-edge-components)
+- [pdt-unity-components](https://github.com/programming-digital-twins/pdt-unity-components)
+- [pdt-exercise-tasks](https://github.com/programming-digital-twins/pdt-exercise-tasks)
+
+Please refer to the individual repositories README and LICENSE (and LICENSE-CODE) files.
+
 ## Exercises Kanban Board
 - [Programming Digital Twins Kanban Board](https://github.com/orgs/programming-digital-twins/projects/1)
 
