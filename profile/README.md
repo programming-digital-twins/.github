@@ -20,7 +20,7 @@ Please refer to the individual repositories README and LICENSE (and LICENSE-CODE
 - [Programming Digital Twins Kanban Board](https://github.com/orgs/programming-digital-twins/projects/1)
 
 ## Sample Videos
-- Watch in 4K: [Programming Digital Twins - Basic Residential System Status Demo](https://youtu.be/xkve9ezn3Mk)
+- Watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 02](https://www.youtube.com/watch?v=x0xCoyFZKts)
 
 ## Book Links
 - **O'Reilly:** https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/
