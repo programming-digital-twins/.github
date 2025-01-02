@@ -9,10 +9,10 @@ This site has been developed to support my upcoming Building Digital Twins cours
 
 ## IMPORTANT NOTE
 All repositories and artifacts are under active development and are subject to change significantly for the foreseeable future. This includes, but is not limited to, the following:
-- [pdt-cfw-components](https://github.com/programming-digital-twins/pdt-cfw-components)
-- [pdt-edge-components](https://github.com/programming-digital-twins/pdt-edge-components)
-- [pdt-unity-components](https://github.com/programming-digital-twins/pdt-unity-components)
-- [pdt-exercise-tasks](https://github.com/programming-digital-twins/pdt-exercise-tasks)
+- PDT Installable Unity Package: [LabBenchStudios-PDT-Unity](https://github.com/programming-digital-twins/LabBenchStudios-PDT-Unity)
+- Client Framework (C#): [pdt-cfw-components](https://github.com/programming-digital-twins/pdt-cfw-components)
+- Edge Device App (Python): [pdt-edge-components](https://github.com/programming-digital-twins/pdt-edge-components)
+- Exercises (Markdown): [pdt-exercise-tasks](https://github.com/programming-digital-twins/pdt-exercise-tasks)
 
 Please refer to the individual repositories README and LICENSE (and LICENSE-CODE) files.
 
@@ -22,6 +22,7 @@ Please refer to the individual repositories README and LICENSE (and LICENSE-CODE
 ## Sample Videos
 - Video 1 - watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 01](https://www.youtube.com/watch?v=xkve9ezn3Mk)
 - Video 2 - watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 02](https://www.youtube.com/watch?v=x0xCoyFZKts)
+- Video 3 - watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 03](https://www.youtube.com/watch?v=D9VScKuroLs)
 
 ## Book Links
 - **O'Reilly:** https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/
