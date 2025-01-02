@@ -9,10 +9,10 @@ This site has been developed to support my upcoming Building Digital Twins cours
 
 ## IMPORTANT NOTE
 All repositories and artifacts are under active development and are subject to change significantly for the foreseeable future. This includes, but is not limited to, the following:
-- PDT Installable Unity Package: [LabBenchStudios-PDT-Unity](https://github.com/programming-digital-twins/LabBenchStudios-PDT-Unity)
-- Client Framework (C#): [pdt-cfw-components](https://github.com/programming-digital-twins/pdt-cfw-components)
-- Edge Device App (Python): [pdt-edge-components](https://github.com/programming-digital-twins/pdt-edge-components)
-- Exercises (Markdown): [pdt-exercise-tasks](https://github.com/programming-digital-twins/pdt-exercise-tasks)
+- PDT Installable Unity Package (C#, etc.): [LabBenchStudios-PDT-Unity](https://github.com/programming-digital-twins/LabBenchStudios-PDT-Unity)
+- PDT Client Framework (C#): [pdt-cfw-components](https://github.com/programming-digital-twins/pdt-cfw-components)
+- PDT Edge Device App (Python): [pdt-edge-components](https://github.com/programming-digital-twins/pdt-edge-components)
+- PDT Exercises (Markdown): [pdt-exercise-tasks](https://github.com/programming-digital-twins/pdt-exercise-tasks)
 
 Please refer to the individual repositories README and LICENSE (and LICENSE-CODE) files.
 
