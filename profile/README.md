@@ -8,23 +8,27 @@ This site has been developed to support my upcoming Building Digital Twins cours
 [Programming the IoT](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/), is designed to help developers and technology executives alike better understand the technical complexities of a typical IoT ecosystem.
 
 ## IMPORTANT NOTE
+
 All repositories and artifacts are under active development and are subject to change significantly for the foreseeable future. This includes, but is not limited to, the following:
-- PDT Installable Unity Package (C#, etc.): [LabBenchStudios-PDT-Unity](https://github.com/programming-digital-twins/LabBenchStudios-PDT-Unity)
-- PDT Client Framework (C#): [pdt-cfw-components](https://github.com/programming-digital-twins/pdt-cfw-components)
-- PDT Edge Device App (Python): [pdt-edge-components](https://github.com/programming-digital-twins/pdt-edge-components)
-- PDT Exercises (Markdown): [pdt-exercise-tasks](https://github.com/programming-digital-twins/pdt-exercise-tasks)
+- PUP: PDT Installable Unity Package (C#, etc.): [LabBenchStudios-PDT-Unity](https://github.com/programming-digital-twins/LabBenchStudios-PDT-Unity)
+- CFW: PDT Client Framework (C#): [pdt-cfw-components](https://github.com/programming-digital-twins/pdt-cfw-components)
+- EDA: PDT Edge Device App (Python): [pdt-edge-components](https://github.com/programming-digital-twins/pdt-edge-components)
+- EDT: PDT Exercise Doc Templates (Markdown): [pdt-exercise-tasks](https://github.com/programming-digital-twins/pdt-exercise-tasks)
 
 Please refer to the individual repositories README and LICENSE (and LICENSE-CODE) files.
 
 ## Exercises Kanban Board
+
 - [Programming Digital Twins Kanban Board](https://github.com/orgs/programming-digital-twins/projects/1)
 
 ## Sample Videos
+
 - Video 1 - watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 01](https://www.youtube.com/watch?v=xkve9ezn3Mk)
 - Video 2 - watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 02](https://www.youtube.com/watch?v=x0xCoyFZKts)
 - Video 3 - watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 03](https://www.youtube.com/watch?v=D9VScKuroLs)
 
 ## Book Links
+
 - **O'Reilly:** https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/
 - **Amazon:** https://www.amazon.com/Programming-Internet-Things-Device-Cloud/dp/1492081418
 - **Website:** https://labbenchstudios.com/programming-the-iot-book/
