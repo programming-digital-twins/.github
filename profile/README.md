@@ -27,7 +27,7 @@ The Programming Digital Twins project and its associated repositories (see above
 
 (1) Build a largely F/OSS Digital Twin framework that can sync live data, DTDL models, and a JSON-based constraint mapping layer, and render within a commercial physics sim engine (e.g., Unity 6).
 
-(2) Use the above configuration data to auto-generate a GPT AI prompt to query one or more locally running LLM's to retrieve predictive maintenance recommendations for the specific system within the Digital Twin environment.
+(2) Use a digital twin asset's configuration data to auto-generate a GPT AI prompt to query one or more locally running LLM's to retrieve predictive maintenance recommendations for the specific system within the Digital Twin environment.
 
 (3) Provide a baseline technology platform for my Northeastern University College of Engineering graduate students (and me) to learn and experiment with various Digital Twin use cases.
 
