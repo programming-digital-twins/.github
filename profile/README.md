@@ -26,7 +26,7 @@ Please refer to the individual repositories README and LICENSE* markdown files, 
 
 ## Objectives
 
-The Programming Digital Twins project and its associated repositories (see above - PUP, CFW, EDA, EDT and the Kanban Board) have three primary objectives:
+The Programming Digital Twins project (and its associated repositories listed above - PUP, CFW, EDA, EDT, EBT, and PKB - the Kanban Board) has three primary objectives:
 
 (1) Build a largely F/OSS Digital Twin framework that can sync live data, DTDL models, and a JSON-based constraint mapping layer, and render within a COTS physics sim engine (e.g., Unity 6).
 
