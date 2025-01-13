@@ -15,11 +15,21 @@ All repositories and artifacts are under active development and are subject to c
 - EDA: PDT Edge Device App (Python): [pdt-edge-components](https://github.com/programming-digital-twins/pdt-edge-components)
 - EDT: PDT Exercise Doc Templates (Markdown): [pdt-exercise-tasks](https://github.com/programming-digital-twins/pdt-exercise-tasks)
 
-Please refer to the individual repositories README and LICENSE (and LICENSE-CODE) files.
+Please refer to the individual repositories README and LICENSE markdown files.
 
 ## Exercises Kanban Board
 
 - [Programming Digital Twins Kanban Board](https://github.com/orgs/programming-digital-twins/projects/1)
+
+## Objectives
+
+The Programming Digital Twins project and its associated repositories (see above - PUP, CFW, EDA, EDT and the Kanban Board) have three primary objectives:
+
+(1) Build a largely F/OSS Digital Twin framework that can sync live data, DTDL models, and a JSON-based constraint mapping layer, and render within a commercial physics sim engine (e.g., Unity 6).
+
+(2) Use the above configuration data to auto-generate a GPT AI prompt to query one or more locally running LLM's to retrieve predictive maintenance recommendations for the specific system within the Digital Twin environment.
+
+(3) Provide a baseline technology platform for my Northeastern University College of Engineering graduate students (and me) to learn and experiment with various Digital Twin use cases.
 
 ## Sample Videos
 
