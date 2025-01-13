@@ -25,7 +25,7 @@ Please refer to the individual repositories README and LICENSE markdown files.
 
 The Programming Digital Twins project and its associated repositories (see above - PUP, CFW, EDA, EDT and the Kanban Board) have three primary objectives:
 
-(1) Build a largely F/OSS Digital Twin framework that can sync live data, DTDL models, and a JSON-based constraint mapping layer, and render within a commercial physics sim engine (e.g., Unity 6).
+(1) Build a largely F/OSS Digital Twin framework that can sync live data, DTDL models, and a JSON-based constraint mapping layer, and render within a COTS physics sim engine (e.g., Unity 6).
 
 (2) Use a digital twin asset's configuration data to auto-generate a GPT AI prompt to query one or more locally running LLM's to retrieve predictive maintenance recommendations for the specific system within the Digital Twin environment.
 
