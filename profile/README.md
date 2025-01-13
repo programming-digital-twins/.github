@@ -10,11 +10,13 @@ My IoT programming book, [Programming the IoT](https://learning.oreilly.com/libr
 
 ## IMPORTANT NOTE
 
-All repositories and artifacts are under active development and are subject to change significantly for the foreseeable future. This includes, but is not limited to, the following:
+All repositories and artifacts are considered EXPERIMENTAL and under active development; e.g., they are subject to change significantly for the foreseeable future. This includes, but is not limited to, the following:
 - PUP: PDT Installable Unity Package (C#, etc.): [LabBenchStudios-PDT-Unity](https://github.com/programming-digital-twins/LabBenchStudios-PDT-Unity)
 - CFW: PDT Client Framework (C#): [pdt-cfw-components](https://github.com/programming-digital-twins/pdt-cfw-components)
 - EDA: PDT Edge Device App (Python): [pdt-edge-components](https://github.com/programming-digital-twins/pdt-edge-components)
 - EDT: PDT Exercise Doc Templates (Markdown): [pdt-exercise-docs](https://github.com/programming-digital-twins/pdt-exercise-docs)
+- EBT: PDT Exercise Board Tasks: [pdt-exercise-tasks](https://github.com/programming-digital-twins/pdt-exercise-tasks)
+- PKB: PDT Kanban Board: [Programming Digital Twins Kanban Board](https://github.com/orgs/programming-digital-twins/projects/1)
 
 Please refer to the individual repositories README and LICENSE* markdown files, and review the content on each repository's landing page for details on references, usage, and more.
 
