@@ -39,3 +39,4 @@ The Programming Digital Twins project (and its associated repositories listed ab
 - Video 1 - watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 01](https://www.youtube.com/watch?v=xkve9ezn3Mk)
 - Video 2 - watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 02](https://www.youtube.com/watch?v=x0xCoyFZKts)
 - Video 3 - watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 03](https://www.youtube.com/watch?v=D9VScKuroLs)
+- Video 4 - watch in 4K: [Programming Digital Twins - Residential Property Digital Twin Demo - Part 04](https://www.youtube.com/watch?v=sNYq1bCEPEI)
